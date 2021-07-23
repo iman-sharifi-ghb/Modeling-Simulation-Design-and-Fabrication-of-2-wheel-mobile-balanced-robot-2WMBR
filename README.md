@@ -11,6 +11,9 @@ Four method used for model 2wmbr:
   * 3-Elimination Method
   * 4-Greenwood Method
 
+Implemented Control Algorithms:
+ * 1-PID Control
+ * 2-State Feedback with Observer
 
 Assembled robot:
 * ![image](https://user-images.githubusercontent.com/60617560/126822341-7d559f83-faf3-42d9-87e0-71535e682e7b.png)
