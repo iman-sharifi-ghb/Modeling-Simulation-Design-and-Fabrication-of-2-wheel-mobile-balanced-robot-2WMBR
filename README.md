@@ -13,4 +13,4 @@ Four method used for model 2wmbr:
 
 
 Assembled robot:
-![image](https://user-images.githubusercontent.com/60617560/126822341-7d559f83-faf3-42d9-87e0-71535e682e7b.png)
+ * ![image](https://user-images.githubusercontent.com/60617560/126822341-7d559f83-faf3-42d9-87e0-71535e682e7b.png)
