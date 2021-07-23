@@ -32,3 +32,6 @@ Assembled robot:
 
 Performance:
 * ![Stability](https://github.com/98210184/Modeling-Simulation-Design-and-Fabrication-of-2-wheel-mobile-balanced-robot-2WMBR-/blob/main/Gif/Stabilization.gif)
+
+Stability On Ramp:
+* ![Alt text](https://github.com/98210184/Modeling-Simulation-Design-and-Fabrication-of-2-wheel-mobile-balanced-robot-2WMBR-/blob/main/Gif/On_Sloped_Surface_Trim.gif)
