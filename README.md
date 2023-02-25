@@ -13,8 +13,8 @@ Four methods used for dynamic modeling of 2WMBR:
  
  Comparizon between modeling and reality:
  
- ![Theorical](https://user-images.githubusercontent.com/60617560/126837801-6e8bf36e-aafa-4f5c-907f-2d2744e54fc9.png)
- ![Reality](https://user-images.githubusercontent.com/60617560/126837337-74a80127-6cd1-4bcc-be31-d27f1d88c579.png)
+ <img src="https://user-images.githubusercontent.com/60617560/126837801-6e8bf36e-aafa-4f5c-907f-2d2744e54fc9.png" width="300" height="200">
+ <img src="https://user-images.githubusercontent.com/60617560/126837337-74a80127-6cd1-4bcc-be31-d27f1d88c579.png" width="300" height="200">
 
 Implemented Control Algorithms:
  * 1-PID Control
